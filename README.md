@@ -335,7 +335,7 @@ get '/:firstname/:lastname' do
 end
 ```
 
-## You do: [99 Bottles of Beer](https://github.com/ga-dc/99_bottles_of_beer)
+## You do: [99 Bottles of Beer](https://github.com/ATL-WDI-Exercises/sinatra-99-bottles)
 
 
 #[Next: Views](https://github.com/ATL-WDI-Curriculum/sinatra-views/blob/master/README.md)
