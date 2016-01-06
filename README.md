@@ -5,8 +5,21 @@ duration: "1:25"
 creator:
     name: Robin Thomas/DC
 updated:
-	name: Marc Wright/ATL
+    name: Marc Wright/ATL
 competencies: Server Applications
+---
+
+---
+title: Control Flow in Ruby
+type: lesson
+duration: 1.25
+creator:
+    name: Micah Rich
+    city: LA
+edited:
+    name: Marc Wright
+    city: ATL
+competencies: Programming
 ---
 
 # Sinatra & REST
